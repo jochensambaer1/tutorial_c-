@@ -1,0 +1,15 @@
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\bin\Debug\net7.0\tkaen_lijst.exe
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\bin\Debug\net7.0\tkaen_lijst.deps.json
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\bin\Debug\net7.0\tkaen_lijst.runtimeconfig.json
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\bin\Debug\net7.0\tkaen_lijst.dll
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\bin\Debug\net7.0\tkaen_lijst.pdb
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.csproj.AssemblyReference.cache
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.AssemblyInfoInputs.cache
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.AssemblyInfo.cs
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.csproj.CoreCompileInputs.cache
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.dll
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\refint\tkaen_lijst.dll
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.pdb
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\tkaen_lijst.genruntimeconfig.cache
+C:\Users\joche\OneDrive\Bureaublad\python\tkaen_lijst\tkaen_lijst\obj\Debug\net7.0\ref\tkaen_lijst.dll
